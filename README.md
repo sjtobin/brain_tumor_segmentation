@@ -73,14 +73,6 @@ Here you can find all model architectures that we built.
 [Github repo](https://github.com/Space-Dream-42/brainTumourProject) <br/>
 [Model files](https://drive.google.com/drive/folders/1pTMtH2817WEceukKP52Lep9QR-ZB2WKz?usp=sharing) <br/>
 
-## Executive Report
-
-<p align="center">
-  <a href="executive_report.pdf">
-    <img src="images/exec_report_abs.png" width="600" />
-  </a>
-</p>
-
 ## Acknowledgements
 We would like to thank Prof. Dr. Chistoph Lippert, Tahir Miriyev, Noel Danz, Eshant English and Wei-Cheng Lai for sharing their experience and expertise with us. Special thanks to Noel Danz who gave insightful tips and comments to help guide the project.
 
